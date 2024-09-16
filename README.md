@@ -1,27 +1,27 @@
 # top_2000_movies
 ## Introducción
-El cine es uno de los principales espejos culturales de nuestra sociedad, cuenta historias, transmite valores y refleja las dinámicas de poder y representación social. En las últimas décadas, ha surgido una preocupación sobre la manera en que el cine refleja la diversidad de nuestra sociedad.
+El cine, como uno de los medios culturales más influyentes, no solo cuenta historias, sino que también refleja valores y dinámicas de poder en nuestra sociedad. A través de las décadas, ha surgido una creciente preocupación por la forma en que el séptimo arte representa la diversidad, en particular, el papel de la mujer en la gran pantalla.
 
-Este proyecto de análisis de datos busca investigar la representación de las mujeres en el cine a partir de las 2,000 películas mejor valoradas en IMDB hasta diciembre de 2023. Aprovechamos esta base de datos, que incluye información como el título, la calificación, el género cinematográfico, el elenco, el director y la recaudación, para realizar un análisis exhaustivo sobre la presencia y los roles de las mujeres en los filmes más populares y aclamados.
+En este proyecto de análisis de datos, nos proponemos explorar cómo se representa a las mujeres en las 2,000 películas mejor valoradas de IMDb hasta diciembre de 2023. Al estudiar una base de datos que abarca títulos, calificaciones, géneros, elencos, directores y recaudaciones, buscamos revelar la realidad detrás de la presencia femenina en las producciones más populares y aclamadas del cine contemporáneo.
 
 ## Justificación del análisis
 
-La relevancia de este proyecto se ve reforzada por los recientes debates públicos sobre la inclusión forzada de personajes femeninos en las películas. Con producciones como Barbie (2023) en el centro de la conversación, muchos señalan que las mujeres están ganando terreno en un mundo cinematográfico históricamente dominado por hombres. No obstante, este proyecto busca aportar claridad y evidencia empírica a estos debates, explorando si esta percepción se alinea con la realidad de los datos.
+El debate sobre la representación de género en el cine ha ganado fuerza en los últimos años. Algunos críticos afirman que la inclusión de personajes femeninos en las películas es forzada y que el protagonismo masculino está en declive. Un ejemplo destacado es la polémica que rodeó a la película Barbie (2023), la cual fue acusada de marginar a los personajes masculinos, lo que provocó reacciones adversas. Sin embargo, ¿es esta percepción realmente un reflejo fiel de la industria cinematográfica? Este proyecto tiene como objetivo abordar esa cuestión de manera rigurosa, utilizando datos objetivos.
 
-Es crucial abordar este tema desde una perspectiva basada en datos. Si bien el debate público se sostiene a menudo en percepciones y opiniones subjetivas, este proyecto propone una metodología objetiva para analizar la realidad de la representación de género en el cine. Mediante el estudio de las películas mejor valoradas según IMDB, podemos obtener una visión clara y precisa de cuántas mujeres están presentes en los elencos, cuántas dirigen estas películas y qué géneros cinematográficos tienden a incluir más (o menos) representación femenina.
+Nos proponemos analizar si, a pesar de la percepción de mayor inclusión, las mujeres siguen subrepresentadas en el cine. En lugar de basarnos en opiniones o suposiciones, nuestro enfoque se centrará en la evidencia empírica, utilizando los datos de IMDb para evaluar la verdadera magnitud de la participación femenina tanto delante como detrás de las cámaras.
 
 ## Objetivo
-Cuantificar y analizar la representación de mujeres en las películas mejor valoradas según IMDB, investigando su presencia en roles clave como miembros del elenco y directoras. Asimismo, buscamos entender si esta representación varía según el género cinematográfico o el éxito económico de las películas, y si existe un cambio notable en las tendencias a lo largo de los años.
-
-De esta forma, este proyecto aspira a proporcionar una visión objetiva y detallada sobre si las mujeres continúan subrepresentadas en el cine, en especial en las películas más influyentes y mejor valoradas por el público.
+El principal objetivo de este análisis es cuantificar la representación de las mujeres en las películas mejor valoradas por IMDb, examinando su participación en roles clave como actrices y directoras. Además, exploraremos si esta representación varía en función del género cinematográfico, el éxito económico o el tiempo, y si existe un patrón de cambio a lo largo de los años. En definitiva, buscamos ofrecer una visión clara y objetiva sobre el estado actual de la representación femenina en las películas más influyentes de la industria.
 
 ## Hipótesis iniciales
-- Hipótesis de subrepresentación femenina: A pesar de los avances recientes, las mujeres siguen siendo significativamente menos representadas que los hombres en los elencos principales de las películas mejor valoradas.
+Para guiar este análisis, proponemos las siguientes hipótesis:
 
-- Hipótesis de escasez de directoras: La proporción de mujeres directoras en las 2,000 películas mejor valoradas es mucho menor que la de sus contrapartes masculinas.
+- Subrepresentación femenina: Aunque ha habido progresos en la inclusión, las mujeres siguen estando significativamente menos representadas en los papeles principales en comparación con los hombres en las películas mejor valoradas.
 
-- Hipótesis de género cinematográfico: Los géneros cinematográficos tradicionalmente considerados "masculinos", como la acción o la ciencia ficción, tienen una representación femenina más baja en comparación con géneros como el drama o la comedia.
+- Escasez de directoras: La presencia de mujeres en roles de dirección es mucho menor en comparación con sus homólogos masculinos, lo que sugiere una barrera persistente para las mujeres detrás de la cámara.
 
-- Hipótesis temporal: Si bien la representación de mujeres ha mejorado en los últimos años, los datos mostrarán que la diferencia de género sigue siendo pronunciada, especialmente en películas más antiguas.
+- Influencia del género cinematográfico: Es probable que géneros como la acción y la ciencia ficción, históricamente dominados por hombres, tengan menos presencia femenina en comparación con géneros como el drama o la comedia, que suelen contar con más diversidad en sus elencos.
 
-- Hipótesis de relación entre éxito y representación: Las películas con mayor recaudación tienden a tener una representación masculina más prominente en los papeles protagónicos, mientras que las películas con calificaciones críticas más altas podrían mostrar una representación más equitativa entre hombres y mujeres.
+- Tendencia temporal: Si bien en años recientes ha habido mejoras en la representación femenina, creemos que los datos revelarán una disparidad de género más acentuada en películas más antiguas.
+
+- Relación entre éxito y representación: Se espera encontrar una correlación entre el éxito de taquilla y una mayor presencia masculina en los roles protagónicos, mientras que las películas con mejores críticas podrían mostrar una representación más equilibrada entre géneros.
