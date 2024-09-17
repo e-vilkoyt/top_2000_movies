@@ -1,4 +1,4 @@
-# top_2000_movies
+# Análisis de representación de género en las mejores películas según IMDB
 ## Introducción
 El cine, como uno de los medios culturales más influyentes, no solo cuenta historias, sino que también refleja valores y dinámicas de poder en nuestra sociedad. En los últimos años ha surgido una creciente preocupación por la diversidad en el séptimo arte, especialmente en cuanto a la **representación femenina en la industria cinematográfica**.
 
