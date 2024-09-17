@@ -1,30 +1,30 @@
 title,rating,meta_score,genre,year,cast,director,revenue
 leave the world behind,6.5,67.0,"['Drama', 'Mystery', 'Thriller']",2023,"['Julia Roberts', 'Mahershala Ali', 'Ethan Hawke', ""Myha'la""]",Sam Esmail,0
-wonka,7.4,66.0,"['Adventure', 'Comedy', 'Family']",2023,"['Timothée Chalamet', 'Gustave Die', 'Murray McArthur', 'Paul G. Raymond']",Paul King,632302312
-poor things,8.5,86.0,"['Comedy', 'Drama', 'Romance']",2023,"['Emma Stone', 'Mark Ruffalo', 'Willem Dafoe', 'Ramy Youssef']",Yorgos Lanthimos,117625455
-killers of the flower moon,7.8,89.0,"['Crime', 'Drama', 'History']",2023,"['Leonardo DiCaprio', 'Robert De Niro', 'Lily Gladstone', 'Jesse Plemons']",Martin Scorsese,157026901
-may december,7.0,85.0,"['Comedy', 'Drama']",2023,"['Natalie Portman', 'Chris Tenzis', 'Charles Melton', 'Julianne Moore']",Todd Haynes,650223
-the hunger games the ballad of songbirds & snakes,7.1,54.0,"['Action', 'Adventure', 'Drama']",2023,"['Rachel Zegler', 'Tom Blyth', 'Viola Davis', 'Dexter Sol Ansell']",Francis Lawrence,338116382
-napoleon,6.6,64.0,"['Action', 'Adventure', 'Biography']",2023,"['Joaquin Phoenix', 'Vanessa Kirby', 'Tahar Rahim', 'Rupert Everett']",Ridley Scott,216603315
+wonka,7.4,66.0,"['Adventure', 'Comedy', 'Family']",2023,"['Timothée Chalamet', 'Gustave Die', 'Murray McArthur', 'Paul G. Raymond']",Paul King,0
+poor things,8.5,86.0,"['Comedy', 'Drama', 'Romance']",2023,"['Emma Stone', 'Mark Ruffalo', 'Willem Dafoe', 'Ramy Youssef']",Yorgos Lanthimos,0
+killers of the flower moon,7.8,89.0,"['Crime', 'Drama', 'History']",2023,"['Leonardo DiCaprio', 'Robert De Niro', 'Lily Gladstone', 'Jesse Plemons']",Martin Scorsese,0
+may december,7.0,85.0,"['Comedy', 'Drama']",2023,"['Natalie Portman', 'Chris Tenzis', 'Charles Melton', 'Julianne Moore']",Todd Haynes,0
+the hunger games the ballad of songbirds & snakes,7.1,54.0,"['Action', 'Adventure', 'Drama']",2023,"['Rachel Zegler', 'Tom Blyth', 'Viola Davis', 'Dexter Sol Ansell']",Francis Lawrence,0
+napoleon,6.6,64.0,"['Action', 'Adventure', 'Biography']",2023,"['Joaquin Phoenix', 'Vanessa Kirby', 'Tahar Rahim', 'Rupert Everett']",Ridley Scott,0
 oppenheimer,8.4,89.0,"['Biography', 'Drama', 'History']",2023,"['Cillian Murphy', 'Emily Blunt', 'Matt Damon', 'Robert Downey Jr.']",Christopher Nolan,933700000
 love actually,7.6,55.0,"['Comedy', 'Drama', 'Romance']",2003,"['Hugh Grant', 'Martine McCutcheon', 'Liam Neeson', 'Laura Linney']",Richard Curtis,244931766
 candy cane lane,5.6,47.0,"['Comedy', 'Family', 'Fantasy']",2023,"['Eddie Murphy', 'Tracee Ellis Ross', 'Jillian Bell', 'Genneya Walton']",Reginald Hudlin,0
-saltburn,7.5,61.0,"['Comedy', 'Drama', 'Thriller']",2023,"['Barry Keoghan', 'Jacob Elordi', 'Archie Madekwe', 'Sadie Soverall']",Emerald Fennell,20456642
+saltburn,7.5,61.0,"['Comedy', 'Drama', 'Thriller']",2023,"['Barry Keoghan', 'Jacob Elordi', 'Archie Madekwe', 'Sadie Soverall']",Emerald Fennell,0
 barbie,7.0,80.0,"['Adventure', 'Comedy', 'Fantasy']",2023,"['Margot Robbie', 'Ryan Gosling', 'Issa Rae', 'Kate McKinnon']",Greta Gerwig,1428545028
 national lampoons christmas vacation,7.5,49.0,['Comedy'],1989,"['Chevy Chase', ""Beverly D'Angelo"", 'Juliette Lewis', 'Johnny Galecki']",Jeremiah S. Chechik,71319546
-rebel moon - part one a child of fire,6.3,32.0,"['Action', 'Adventure', 'Drama']",2023,"['Sofia Boutella', 'Charlie Hunnam', 'Ed Skrein', 'Jena Malone']",Zack Snyder,166000000
+rebel moon - part one a child of fire,6.3,32.0,"['Action', 'Adventure', 'Drama']",2023,"['Sofia Boutella', 'Charlie Hunnam', 'Ed Skrein', 'Jena Malone']",Zack Snyder,0
 the family plan,6.3,40.0,"['Action', 'Comedy']",2023,"['Mark Wahlberg', 'Michelle Monaghan', 'Ciarán Hinds', 'Zoe Margaret Colletti']",Simon Cellan Jones,0
-the holdovers,8.0,82.0,"['Comedy', 'Drama']",2023,"['Paul Giamatti', ""Da'Vine Joy Randolph"", 'Dominic Sessa', 'Carrie Preston']",Alexander Payne,439406801
+the holdovers,8.0,82.0,"['Comedy', 'Drama']",2023,"['Paul Giamatti', ""Da'Vine Joy Randolph"", 'Dominic Sessa', 'Carrie Preston']",Alexander Payne,0
 family switch,5.6,37.0,"['Comedy', 'Family']",2023,"['Jennifer Garner', 'Ed Helms', 'Emma Myers', 'Brady Noon']",McG,0
 indiana jones and the dial of destiny,6.6,58.0,"['Action', 'Adventure', 'Sci-Fi']",2023,"['Harrison Ford', 'Phoebe Waller-Bridge', 'Antonio Banderas', 'Karen Allen']",James Mangold,382891104
 elf,7.1,66.0,"['Adventure', 'Comedy', 'Family']",2003,"['Will Ferrell', 'James Caan', 'Bob Newhart', 'Zooey Deschanel']",Jon Favreau,225097437
 how the grinch stole christmas,6.3,46.0,"['Comedy', 'Family', 'Fantasy']",2000,"['Jim Carrey', 'Taylor Momsen', 'Kelley', 'Jeffrey Tambor']",Ron Howard,345823040
 maestro,7.3,78.0,"['Biography', 'Drama', 'Music']",2023,"['Carey Mulligan', 'Bradley Cooper', 'Matt Bomer', 'Vincenzo Amato']",Bradley Cooper,0
 mr. monks last case a monk movie,7.0,65.0,"['Comedy', 'Crime', 'Mystery']",2023,"['Tony Shalhoub', 'Traylor Howard', 'Jason Gray-Stanford', 'Melora Hardin']",Randy Zisk,0
-the iron claw,,72.0,"['Biography', 'Drama', 'Sport']",2023,"['Zac Efron', 'Jeremy Allen White', 'Harris Dickinson', 'Maura Tierney']",Sean Durkin,45200720
+the iron claw,,72.0,"['Biography', 'Drama', 'Sport']",2023,"['Zac Efron', 'Jeremy Allen White', 'Harris Dickinson', 'Maura Tierney']",Sean Durkin,0
 leo,7.0,65.0,"['Animation', 'Comedy', 'Family']",2023,"['Adam Sandler', 'Bill Burr', 'Cecily Strong', 'Jason Alexander']",Robert MarianettiRobert SmigelDavid Wachtenheim,0
 fast charlie,5.9,70.0,"['Action', 'Crime', 'Drama']",2023,"['Pierce Brosnan', 'Morena Baccarin', 'James Caan', 'Gbenga Akinnagbe']",Phillip Noyce,0
-the creator,6.9,63.0,"['Action', 'Adventure', 'Drama']",2023,"['John David Washington', 'Madeleine Yuna Voyles', 'Gemma Chan', 'Allison Janney']",Gareth Edwards,104272136
+the creator,6.9,63.0,"['Action', 'Adventure', 'Drama']",2023,"['John David Washington', 'Madeleine Yuna Voyles', 'Gemma Chan', 'Allison Janney']",Gareth Edwards,0
 the grinch,6.4,51.0,"['Animation', 'Comedy', 'Family']",2018,"['Benedict Cumberbatch', 'Cameron Seely', 'Rashida Jones', 'Pharrell Williams']",Yarrow CheneyScott Mosier,508575295
 chicken run dawn of the nugget,6.5,63.0,"['Animation', 'Adventure', 'Comedy']",2023,"['Thandiwe Newton', 'Zachary Levi', 'Bella Ramsey', 'Imelda Staunton']",Sam Fell,0
 die hard,8.2,72.0,"['Action', 'Thriller']",1988,"['Bruce Willis', 'Alan Rickman', 'Bonnie Bedelia', 'Reginald VelJohnson']",John McTiernan,140767956
@@ -33,24 +33,24 @@ the super mario bros. movie,7.0,46.0,"['Animation', 'Adventure', 'Comedy']",2023
 violent night,6.7,55.0,"['Action', 'Comedy', 'Thriller']",2022,"['David Harbour', 'John Leguizamo', ""Beverly D'Angelo"", 'Alex Hassell']",Tommy Wirkola,75734910
 home alone 2 lost in new york,6.9,46.0,"['Adventure', 'Comedy', 'Crime']",1992,"['Macaulay Culkin', 'Joe Pesci', 'Daniel Stern', ""Catherine O'Hara""]",Chris Columbus,358994850
 a haunting in venice,6.5,63.0,"['Crime', 'Drama', 'Horror']",2023,"['Kenneth Branagh', 'Michelle Yeoh', 'Jamie Dornan', 'Tina Fey']",Kenneth Branagh,89800000
-the marvels,5.9,50.0,"['Action', 'Adventure', 'Fantasy']",2023,"['Brie Larson', 'Teyonah Parris', 'Iman Vellani', 'Samuel L. Jackson']",Nia DaCosta,206547829
-wish,5.8,47.0,"['Animation', 'Adventure', 'Comedy']",2023,"['Ariana DeBose', 'Chris Pine', 'Alan Tudyk', 'Angelique Cabral']",Chris BuckFawn Veerasunthorn,254876117
+the marvels,5.9,50.0,"['Action', 'Adventure', 'Fantasy']",2023,"['Brie Larson', 'Teyonah Parris', 'Iman Vellani', 'Samuel L. Jackson']",Nia DaCosta,0
+wish,5.8,47.0,"['Animation', 'Adventure', 'Comedy']",2023,"['Ariana DeBose', 'Chris Pine', 'Alan Tudyk', 'Angelique Cabral']",Chris BuckFawn Veerasunthorn,0
 the polar express,6.6,61.0,"['Animation', 'Adventure', 'Comedy']",2004,"['Tom Hanks', 'Chris Coppola', 'Michael Jeter', 'Leslie Zemeckis']",Robert Zemeckis,310634054
 its a wonderful life,8.6,89.0,"['Drama', 'Family', 'Fantasy']",1946,"['James Stewart', 'Donna Reed', 'Lionel Barrymore', 'Thomas Mitchell']",Frank Capra,9644124
-five nights at freddys,5.5,33.0,"['Horror', 'Mystery', 'Thriller']",2023,"['Josh Hutcherson', 'Piper Rubio', 'Elizabeth Lail', 'Matthew Lillard']",Emma Tammi,308644130
+five nights at freddys,5.5,33.0,"['Horror', 'Mystery', 'Thriller']",2023,"['Josh Hutcherson', 'Piper Rubio', 'Elizabeth Lail', 'Matthew Lillard']",Emma Tammi,0
 the santa clause,6.6,57.0,"['Comedy', 'Drama', 'Family']",1994,"['Tim Allen', 'Judge Reinhold', 'Wendy Crewson', 'Eric Lloyd']",John Pasquin,189833357
 white christmas,7.6,56.0,"['Comedy', 'Musical', 'Romance']",1954,"['Bing Crosby', 'Danny Kaye', 'Rosemary Clooney', 'Vera-Ellen']",Michael Curtiz,0
 finestkind,5.8,44.0,"['Crime', 'Drama', 'Thriller']",2023,"['Ben Foster', 'Toby Wallace', 'Jenna Ortega', 'Tommy Lee Jones']",Brian Helgeland,0
 thanksgiving,6.8,63.0,"['Horror', 'Mystery', 'Thriller']",2023,"['Patrick Dempsey', 'Ty Olsson', 'Gina Gershon', 'Gabriel Davenport']",Eli Roth,0
 the holiday,6.9,52.0,"['Comedy', 'Romance']",2006,"['Kate Winslet', 'Cameron Diaz', 'Jude Law', 'Jack Black']",Nancy Meyers,194168700
 the hunger games,7.2,68.0,"['Action', 'Adventure', 'Sci-Fi']",2012,"['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth', 'Stanley Tucci']",Gary Ross,694394724
-the boys in the boat,,50.0,"['Biography', 'Drama', 'Sport']",2023,"['Joel Edgerton', 'Callum Turner', 'Peter Guinness', 'Sam Strike']",George Clooney,54401583
+the boys in the boat,,50.0,"['Biography', 'Drama', 'Sport']",2023,"['Joel Edgerton', 'Callum Turner', 'Peter Guinness', 'Sam Strike']",George Clooney,0
 a christmas story,7.9,77.0,"['Comedy', 'Family']",1983,"['Peter Billingsley', 'Melinda Dillon', 'Darren McGavin', 'Scott Schwartz']",Bob Clark,20653717
 the color purple,,70.0,"['Drama', 'Musical']",2023,"['Fantasia Barrino', 'Taraji P. Henson', 'Danielle Brooks', 'Colman Domingo']",Blitz Bazawule,146292000
 willy wonka & the chocolate factory,7.8,67.0,"['Family', 'Fantasy', 'Musical']",1971,"['Gene Wilder', 'Jack Albertson', 'Peter Ostrum', 'Roy Kinnear']",Mel Stuart,4000000
-trolls band together,6.0,53.0,"['Animation', 'Adventure', 'Comedy']",2023,"['Anna Kendrick', 'Justin Timberlake', 'Kenan Thompson', 'Walt Dohrn']",Walt DohrnTim Heitz,208448222
+trolls band together,6.0,53.0,"['Animation', 'Adventure', 'Comedy']",2023,"['Anna Kendrick', 'Justin Timberlake', 'Kenan Thompson', 'Walt Dohrn']",Walt DohrnTim Heitz,0
 scrooged,6.9,38.0,"['Comedy', 'Drama', 'Fantasy']",1988,"['Bill Murray', 'Karen Allen', 'John Forsythe', 'John Glover']",Richard Donner,60328558
-ferrari,6.7,74.0,"['Biography', 'Drama', 'History']",2023,"['Adam Driver', 'Shailene Woodley', 'Giuseppe Festinese', 'Alessandro Cremona']",Michael Mann,43332974
+ferrari,6.7,74.0,"['Biography', 'Drama', 'History']",2023,"['Adam Driver', 'Shailene Woodley', 'Giuseppe Festinese', 'Alessandro Cremona']",Michael Mann,0
 no hard feelings,6.4,59.0,"['Comedy', 'Romance']",2023,"['Jennifer Lawrence', 'Andrew Barth Feldman', 'Laura Benanti', 'Matthew Broderick']",Gene Stupnitsky,82995526
 charlie and the chocolate factory,6.7,72.0,"['Adventure', 'Comedy', 'Family']",2005,"['Johnny Depp', 'Freddie Highmore', 'David Kelly', 'Helena Bonham Carter']",Tim Burton,474968763
 x,6.5,79.0,"['Horror', 'Mystery', 'Thriller']",2022,"['Mia Goth', 'Jenna Ortega', 'Brittany Snow', 'Kid Cudi']",Ti West,14779858
@@ -58,19 +58,19 @@ mission impossible - dead reckoning part one,7.8,81.0,"['Action', 'Adventure', '
 spider-man across the spider-verse,8.6,86.0,"['Animation', 'Action', 'Adventure']",2023,"['Shameik Moore', 'Hailee Steinfeld', 'Brian Tyree Henry', 'Luna Lauren Velez']",Joaquim Dos SantosKemp PowersJustin K. Thompson,683241751
 asteroid city,6.6,75.0,"['Comedy', 'Drama', 'Romance']",2023,"['Jason Schwartzman', 'Scarlett Johansson', 'Tom Hanks', 'Jeffrey Wright']",Wes Anderson,47281670
 blue beetle,6.0,61.0,"['Action', 'Adventure', 'Sci-Fi']",2023,"['Xolo Maridueña', 'Bruna Marquezine', 'Becky G', 'Damián Alcázar']",Angel Manuel Soto,124818235
-eileen,6.7,71.0,"['Drama', 'Mystery', 'Thriller']",2023,"['Thomasin McKenzie', 'Shea Whigham', 'Sam Nivola', 'Siobhan Fallon Hogan']",William Oldroyd,1365744
+eileen,6.7,71.0,"['Drama', 'Mystery', 'Thriller']",2023,"['Thomasin McKenzie', 'Shea Whigham', 'Sam Nivola', 'Siobhan Fallon Hogan']",William Oldroyd,0
 love and monsters,6.9,63.0,"['Action', 'Adventure', 'Comedy']",2020,"[""Dylan O'Brien"", 'Jessica Henwick', 'Michael Rooker', 'Dan Ewing']",Michael Matthews,1122066
 dune,8.0,74.0,"['Action', 'Adventure', 'Drama']",2021,"['Timothée Chalamet', 'Rebecca Ferguson', 'Zendaya', 'Oscar Isaac']",Denis Villeneuve,402027830
 spirited,6.6,55.0,"['Comedy', 'Family', 'Musical']",2022,"['Will Ferrell', 'Ryan Reynolds', 'Octavia Spencer', 'Patrick Page']",Sean Anders,0
-dream scenario,7.4,74.0,"['Comedy', 'Horror']",2023,"['Lily Bird', 'Nicolas Cage', 'Julianne Nicholson', 'Jessica Clement']",Kristoffer Borgli,12470140
+dream scenario,7.4,74.0,"['Comedy', 'Horror']",2023,"['Lily Bird', 'Nicolas Cage', 'Julianne Nicholson', 'Jessica Clement']",Kristoffer Borgli,0
 jingle all the way,5.7,34.0,"['Adventure', 'Comedy', 'Family']",1996,"['Arnold Schwarzenegger', 'Sinbad', 'Phil Hartman', 'Rita Wilson']",Brian Levant,129832389
-priscilla,6.9,78.0,"['Biography', 'Drama', 'Music']",2023,"['Cailee Spaeny', 'Jacob Elordi', 'Ari Cohen', 'Dagmara Dominczyk']",Sofia Coppola,30947890
+priscilla,6.9,78.0,"['Biography', 'Drama', 'Music']",2023,"['Cailee Spaeny', 'Jacob Elordi', 'Ari Cohen', 'Dagmara Dominczyk']",Sofia Coppola,0
 talk to me,7.1,76.0,"['Horror', 'Thriller']",2022,"['Ari McCarthy', 'Hamish Phillips', 'Kit Erhart-Bruce', 'Sarah Brokensha']",Danny PhilippouMichael Philippou,72600000
 the batman,7.8,72.0,"['Action', 'Crime', 'Drama']",2022,"['Robert Pattinson', 'Zoë Kravitz', 'Jeffrey Wright', 'Colin Farrell']",Matt Reeves,770945583
 everything everywhere all at once,7.8,81.0,"['Action', 'Adventure', 'Comedy']",2022,"['Michelle Yeoh', 'Stephanie Hsu', 'Jamie Lee Curtis', 'Ke Huy Quan']",Daniel KwanDaniel Scheinert,139200000
-american fiction,7.8,81.0,"['Comedy', 'Drama']",2023,"['Jeffrey Wright', 'Tracee Ellis Ross', 'John Ortiz', 'Erika Alexander']",Cord Jefferson,23026243
+american fiction,7.8,81.0,"['Comedy', 'Drama']",2023,"['Jeffrey Wright', 'Tracee Ellis Ross', 'John Ortiz', 'Erika Alexander']",Cord Jefferson,0
 interstellar,8.7,74.0,"['Adventure', 'Drama', 'Sci-Fi']",2014,"['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain', 'Mackenzie Foy']",Christopher Nolan,701729206
-all of us strangers,,90.0,"['Drama', 'Fantasy', 'Romance']",2023,"['Andrew Scott', 'Paul Mescal', 'Carter John Grout', 'Jamie Bell']",Andrew Haigh,20205232
+all of us strangers,,90.0,"['Drama', 'Fantasy', 'Romance']",2023,"['Andrew Scott', 'Paul Mescal', 'Carter John Grout', 'Jamie Bell']",Andrew Haigh,0
 genie,5.9,35.0,"['Comedy', 'Fantasy']",2023,"['Melissa McCarthy', 'Paapa Essiedu', 'Denée Benton', 'Jordyn McIntosh']",Sam Boyd,0
 klaus,8.2,65.0,"['Animation', 'Adventure', 'Comedy']",2019,"['Jason Schwartzman', 'J.K. Simmons', 'Rashida Jones', 'Will Sasso']",Sergio PablosCarlos Martínez López,0
 the shawshank redemption,9.3,82.0,['Drama'],1994,"['Tim Robbins', 'Morgan Freeman', 'Bob Gunton', 'William Sadler']",Frank Darabont,28341469
@@ -102,7 +102,7 @@ the lord of the rings the fellowship of the ring,8.8,92.0,"['Action', 'Adventure
 pride & prejudice,7.8,82.0,"['Drama', 'Romance']",2005,"['Keira Knightley', 'Matthew Macfadyen', 'Brenda Blethyn', 'Donald Sutherland']",Joe Wright,121616555
 gladiator,8.5,67.0,"['Action', 'Adventure', 'Drama']",2000,"['Russell Crowe', 'Joaquin Phoenix', 'Connie Nielsen', 'Oliver Reed']",Ridley Scott,465361176
 the hunger games catching fire,7.5,76.0,"['Action', 'Adventure', 'Sci-Fi']",2013,"['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth', 'Philip Seymour Hoffman']",Francis Lawrence,865011746
-freelance,5.4,24.0,"['Action', 'Comedy']",2023,"['John Cena', 'Alison Brie', 'Juan Pablo Raba', 'Christian Slater']",Pierre Morel,8356190
+freelance,5.4,24.0,"['Action', 'Comedy']",2023,"['John Cena', 'Alison Brie', 'Juan Pablo Raba', 'Christian Slater']",Pierre Morel,0
 the dark knight,9.0,84.0,"['Action', 'Crime', 'Drama']",2008,"['Christian Bale', 'Heath Ledger', 'Aaron Eckhart', 'Michael Caine']",Christopher Nolan,1004558444
 blade runner 2049,8.0,81.0,"['Action', 'Drama', 'Mystery']",2017,"['Harrison Ford', 'Ryan Gosling', 'Ana de Armas', 'Dave Bautista']",Denis Villeneuve,259239658
 pulp fiction,8.9,95.0,"['Crime', 'Drama']",1994,"['John Travolta', 'Uma Thurman', 'Samuel L. Jackson', 'Bruce Willis']",Quentin Tarantino,213900000
@@ -133,13 +133,13 @@ inception,8.8,74.0,"['Action', 'Adventure', 'Sci-Fi']",2010,"['Leonardo DiCaprio
 the goonies,7.7,62.0,"['Adventure', 'Comedy', 'Family']",1985,"['Sean Astin', 'Josh Brolin', 'Jeff Cohen', 'Corey Feldman']",Richard Donner,61389680
 saw x,6.6,60.0,"['Horror', 'Mystery', 'Thriller']",2023,"['Tobin Bell', 'Shawnee Smith', 'Synnøve Macody Lund', 'Steven Brand']",Kevin Greutert,29300000
 godzilla,6.4,62.0,"['Action', 'Adventure', 'Sci-Fi']",2014,"['Aaron Taylor-Johnson', 'Elizabeth Olsen', 'Bryan Cranston', 'Ken Watanabe']",Gareth Edwards,529076069
-its a wonderful knife,5.3,52.0,"['Comedy', 'Horror', 'Mystery']",2023,"['Jane Widdop', 'Joel McHale', 'Justin Long', 'Jess McLeod']",Tyler MacIntyre,1291287
+its a wonderful knife,5.3,52.0,"['Comedy', 'Horror', 'Mystery']",2023,"['Jane Widdop', 'Joel McHale', 'Justin Long', 'Jess McLeod']",Tyler MacIntyre,0
 a christmas story christmas,6.7,55.0,"['Comedy', 'Family']",2022,"['Peter Billingsley', 'Erinn Hayes', 'River Drosche', 'Julianna Layne']",Clay Kaytis,0
 babylon,7.1,61.0,"['Comedy', 'Drama', 'History']",2022,"['Brad Pitt', 'Margot Robbie', 'Jean Smart', 'Olivia Wilde']",Damien Chazelle,63363579
 whiplash,8.5,89.0,"['Drama', 'Music']",2014,"['Miles Teller', 'J.K. Simmons', 'Melissa Benoist', 'Paul Reiser']",Damien Chazelle,13092000
 titanic,7.9,75.0,"['Drama', 'Romance']",1997,"['Leonardo DiCaprio', 'Kate Winslet', 'Billy Zane', 'Kathy Bates']",James Cameron,2264162353
 shazam! fury of the gods,6.0,47.0,"['Action', 'Adventure', 'Comedy']",2023,"['Zachary Levi', 'Asher Angel', 'Jack Dylan Grazer', 'Rachel Zegler']",David F. Sandberg,133437105
-a good person,7.1,50.0,['Drama'],2023,"['Florence Pugh', 'Morgan Freeman', ""Celeste O'Connor"", 'Molly Shannon']",Zach Braff,2952008
+a good person,7.1,50.0,['Drama'],2023,"['Florence Pugh', 'Morgan Freeman', ""Celeste O'Connor"", 'Molly Shannon']",Zach Braff,0
 the color purple,7.7,78.0,['Drama'],1985,"['Danny Glover', 'Whoopi Goldberg', 'Oprah Winfrey', 'Margaret Avery']",Steven Spielberg,146292000
 die hard 2,7.1,67.0,"['Action', 'Thriller']",1990,"['Bruce Willis', 'William Atherton', 'Bonnie Bedelia', 'Reginald VelJohnson']",Renny Harlin,240031094
 fair play,6.4,73.0,"['Drama', 'Mystery', 'Thriller']",2023,"['Phoebe Dynevor', 'Alden Ehrenreich', 'Eddie Marsan', 'Rich Sommer']",Chloe Domont,0
@@ -152,7 +152,7 @@ the favourite,7.5,91.0,"['Biography', 'Comedy', 'Drama']",2018,"['Olivia Colman'
 nyad,7.1,64.0,"['Biography', 'Drama', 'Sport']",2023,"['Annette Bening', 'Jodie Foster', 'Anne Marie Kempf', 'Carolyn McCormick']",Jimmy ChinElizabeth Chai Vasarhelyi,0
 goodfellas,8.7,92.0,"['Biography', 'Crime', 'Drama']",1990,"['Robert De Niro', 'Ray Liotta', 'Joe Pesci', 'Lorraine Bracco']",Martin Scorsese,46835000
 midsommar,7.1,72.0,"['Drama', 'Horror', 'Mystery']",2019,"['Florence Pugh', 'Jack Reynor', 'Vilhelm Blomgren', 'William Jackson Harper']",Ari Aster,47969371
-silent night,5.7,52.0,"['Comedy', 'Drama']",2021,"['Keira Knightley', 'Matthew Goode', 'Roman Griffin Davis', 'Annabelle Wallis']",Camille Griffin,10981891
+silent night,5.7,52.0,"['Comedy', 'Drama']",2021,"['Keira Knightley', 'Matthew Goode', 'Roman Griffin Davis', 'Annabelle Wallis']",Camille Griffin,0
 the gentlemen,7.8,51.0,"['Action', 'Crime']",2019,"['Matthew McConaughey', 'Charlie Hunnam', 'Michelle Dockery', 'Jeremy Strong']",Guy Ritchie,115171795
 "the chronicles of narnia the lion, the witch and the wardrobe",6.9,75.0,"['Adventure', 'Family', 'Fantasy']",2005,"['Tilda Swinton', 'Georgie Henley', 'William Moseley', 'Skandar Keynes']",Andrew Adamson,745013115
 inglourious basterds,8.4,69.0,"['Adventure', 'Drama', 'War']",2009,"['Brad Pitt', 'Diane Kruger', 'Eli Roth', 'Mélanie Laurent']",Quentin Tarantino,321457747
@@ -298,7 +298,7 @@ pirates of the caribbean the curse of the black pearl,8.1,63.0,"['Action', 'Adve
 the longest ride,7.0,33.0,"['Comedy', 'Drama', 'Romance']",2015,"['Scott Eastwood', 'Britt Robertson', 'Alan Alda', 'Jack Huston']",George Tillman Jr.,63013281
 a man called otto,7.5,51.0,"['Comedy', 'Drama']",2022,"['Tom Hanks', 'Mariana Treviño', 'Rachel Keller', 'John Higgins']",Marc Forster,108961677
 aliens,8.4,84.0,"['Action', 'Adventure', 'Sci-Fi']",1986,"['Sigourney Weaver', 'Michael Biehn', 'Carrie Henn', 'Paul Reiser']",James Cameron,183316455
-no one will save you,6.3,60.0,"['Horror', 'Sci-Fi', 'Thriller']",2023,"['Kaitlyn Dever', 'Elizabeth Kaluev', 'Zack Duhame', 'Lauren L. Murray']",Brian Duffield,22800000
+no one will save you,6.3,60.0,"['Horror', 'Sci-Fi', 'Thriller']",2023,"['Kaitlyn Dever', 'Elizabeth Kaluev', 'Zack Duhame', 'Lauren L. Murray']",Brian Duffield,0
 holiday inn,7.3,70.0,"['Comedy', 'Drama', 'Music']",1942,"['Bing Crosby', 'Fred Astaire', 'Marjorie Reynolds', 'Virginia Dale']",Mark SandrichRobert Allen,0
 the deer hunter,8.1,86.0,"['Drama', 'War']",1978,"['Robert De Niro', 'Christopher Walken', 'John Cazale', 'John Savage']",Michael Cimino,49000000
 "are you there god? its me, margaret.",7.3,84.0,"['Comedy', 'Drama', 'Family']",2023,"['Abby Ryder Fortson', 'Rachel McAdams', 'Kathy Bates', 'Benny Safdie']",Kelly Fremon Craig,21826840
@@ -372,7 +372,7 @@ the nun ii,5.6,47.0,"['Horror', 'Mystery', 'Thriller']",2023,"['Taissa Farmiga',
 cobweb,6.0,50.0,"['Horror', 'Thriller']",2023,"['Lizzy Caplan', 'Antony Starr', 'Cleopatra Coleman', 'Woody Norman']",Samuel Bodin,5569593
 boyz n the hood,7.8,76.0,"['Crime', 'Drama']",1991,"['Cuba Gooding Jr.', 'Laurence Fishburne', 'Hudhail Al-Amir', 'Lloyd Avery II']",John Singleton,57504069
 the dreamers,7.1,63.0,"['Drama', 'Romance']",2003,"['Michael Pitt', 'Louis Garrel', 'Eva Green', 'Anna Chancellor']",Bernardo Bertolucci,15121165
-the bikeriders,7.6,71.0,"['Crime', 'Drama']",2023,"['Austin Butler', 'Jodie Comer', 'Tom Hardy', 'Michael Shannon']",Jeff Nichols,35933638
+the bikeriders,7.6,71.0,"['Crime', 'Drama']",2023,"['Austin Butler', 'Jodie Comer', 'Tom Hardy', 'Michael Shannon']",Jeff Nichols,0
 deadpool,8.0,65.0,"['Action', 'Comedy']",2016,"['Ryan Reynolds', 'Morena Baccarin', 'T.J. Miller', 'Ed Skrein']",Tim Miller,783100000
 alien covenant,6.4,65.0,"['Horror', 'Sci-Fi', 'Thriller']",2017,"['Michael Fassbender', 'Katherine Waterston', 'Billy Crudup', 'Danny McBride']",Ridley Scott,240891763
 kill bill vol. 1,8.2,69.0,"['Action', 'Crime', 'Thriller']",2003,"['Uma Thurman', 'David Carradine', 'Daryl Hannah', 'Michael Madsen']",Quentin Tarantino,180906076
@@ -531,21 +531,21 @@ deadpool 2,7.6,66.0,"['Action', 'Adventure', 'Comedy']",2018,"['Ryan Reynolds', 
 die hard with a vengeance,7.6,58.0,"['Action', 'Adventure', 'Thriller']",1995,"['Bruce Willis', 'Jeremy Irons', 'Samuel L. Jackson', 'Graham Greene']",John McTiernan,366101666
 zodiac,7.7,79.0,"['Crime', 'Drama', 'Mystery']",2007,"['Jake Gyllenhaal', 'Robert Downey Jr.', 'Mark Ruffalo', 'Anthony Edwards']",David Fincher,84785914
 belfast,7.2,75.0,"['Biography', 'Drama', 'Romance']",2021,"['Jude Hill', 'Lewis McAskie', 'Caitríona Balfe', 'Jamie Dornan']",Kenneth Branagh,49158343
-the book of clarence,,62.0,"['Adventure', 'Comedy', 'Drama']",2023,"['Teyana Taylor', 'Benedict Cumberbatch', 'James McAvoy', 'David Oyelowo']",Jeymes Samuel,6205230
+the book of clarence,,62.0,"['Adventure', 'Comedy', 'Drama']",2023,"['Teyana Taylor', 'Benedict Cumberbatch', 'James McAvoy', 'David Oyelowo']",Jeymes Samuel,0
 idiocracy,6.5,66.0,"['Adventure', 'Comedy', 'Sci-Fi']",2006,"['Luke Wilson', 'Maya Rudolph', 'Dax Shepard', 'Terry Crews']",Mike Judge,495303
 blackkklansman,7.5,83.0,"['Biography', 'Comedy', 'Crime']",2018,"['John David Washington', 'Adam Driver', 'Laura Harrier', 'Topher Grace']",Spike Lee,93411426
 speak no evil,6.6,78.0,"['Drama', 'Horror', 'Thriller']",2022,"['Morten Burian', 'Sidsel Siem Koch', 'Fedja van Huêt', 'Karina Smulders']",Christian Tafdrup,623462
 batman returns,7.1,68.0,"['Action', 'Crime', 'Fantasy']",1992,"['Michael Keaton', 'Danny DeVito', 'Michelle Pfeiffer', 'Christopher Walken']",Tim Burton,280000000
 lost in translation,7.7,91.0,"['Comedy', 'Drama']",2003,"['Bill Murray', 'Scarlett Johansson', 'Giovanni Ribisi', 'Anna Faris']",Sofia Coppola,119723856
 the devil wears prada,6.9,62.0,"['Comedy', 'Drama']",2006,"['Anne Hathaway', 'Meryl Streep', 'Adrian Grenier', 'Emily Blunt']",David Frankel,326706115
-what happens later,4.9,59.0,"['Comedy', 'Romance']",2023,"['Meg Ryan', 'David Duchovny', 'Hal Liggett', 'Jarred Rogers']",Meg Ryan,3326042
+what happens later,4.9,59.0,"['Comedy', 'Romance']",2023,"['Meg Ryan', 'David Duchovny', 'Hal Liggett', 'Jarred Rogers']",Meg Ryan,0
 kingsman the secret service,7.7,60.0,"['Action', 'Adventure', 'Comedy']",2014,"['Colin Firth', 'Taron Egerton', 'Samuel L. Jackson', 'Michael Caine']",Matthew Vaughn,414351546
 edward scissorhands,7.9,74.0,"['Drama', 'Fantasy', 'Romance']",1990,"['Johnny Depp', 'Winona Ryder', 'Dianne Wiest', 'Anthony Michael Hall']",Tim Burton,53000000
 cocaine bear,5.9,54.0,"['Comedy', 'Thriller']",2023,"['Keri Russell', 'Alden Ehrenreich', ""O'Shea Jackson Jr."", 'Ray Liotta']",Elizabeth Banks,87649532
 reservoir dogs,8.3,81.0,"['Crime', 'Thriller']",1992,"['Harvey Keitel', 'Tim Roth', 'Michael Madsen', 'Chris Penn']",Quentin Tarantino,2859750
 winnie the pooh blood and honey,2.9,16.0,['Horror'],2023,"['Nikolai Leon', 'Maria Taylor', 'Natasha Rose Mills', 'Amber Doig-Thorne']",Rhys Frake-Waterfield,5200000
 snowpiercer,7.1,84.0,"['Action', 'Drama', 'Sci-Fi']",2013,"['Chris Evans', 'Jamie Bell', 'Tilda Swinton', 'Ed Harris']",Bong Joon Ho,86758912
-how it ends,5.1,36.0,"['Action', 'Drama', 'Horror']",2018,"['Theo James', 'Kat Graham', 'Nancy Sorel', 'Nicole Ari Parker']",David M. Rosenthal,3326042
+how it ends,5.1,36.0,"['Action', 'Drama', 'Horror']",2018,"['Theo James', 'Kat Graham', 'Nancy Sorel', 'Nicole Ari Parker']",David M. Rosenthal,0
 iron man,7.9,79.0,"['Action', 'Adventure', 'Sci-Fi']",2008,"['Robert Downey Jr.', 'Gwyneth Paltrow', 'Terrence Howard', 'Jeff Bridges']",Jon Favreau,585174222
 indiana jones and the kingdom of the crystal skull,6.2,65.0,"['Action', 'Adventure']",2008,"['Harrison Ford', 'Cate Blanchett', 'Shia LaBeouf', 'Karen Allen']",Steven Spielberg,786636033
 shame,7.2,72.0,['Drama'],2011,"['Michael Fassbender', 'Carey Mulligan', 'James Badge Dale', 'Lucy Walters']",Steve McQueen,3909002
@@ -597,7 +597,7 @@ tár,7.4,92.0,"['Drama', 'Music']",2022,"['Cate Blanchett', 'Noémie Merlant', '
 an american pickle,5.7,58.0,"['Comedy', 'Fantasy']",2020,"['Seth Rogen', 'Sarah Snook', 'Molly Evensen', 'Eliot Glazer']",Brandon Trost,0
 heart of stone,5.7,44.0,"['Action', 'Crime', 'Thriller']",2023,"['Gal Gadot', 'Jamie Dornan', 'Alia Bhatt', 'Jing Lusi']",Tom Harper,0
 the blue lagoon,5.8,31.0,"['Adventure', 'Drama', 'Romance']",1980,"['Brooke Shields', 'Christopher Atkins', 'Leo McKern', 'William Daniels']",Randal Kleiser,58853106
-one life,7.6,67.0,"['Biography', 'Drama', 'History']",2023,"['Anthony Hopkins', 'Romola Garai', 'Helena Bonham Carter', 'Jonathan Pryce']",James Hawes,56468392
+one life,7.6,67.0,"['Biography', 'Drama', 'History']",2023,"['Anthony Hopkins', 'Romola Garai', 'Helena Bonham Carter', 'Jonathan Pryce']",James Hawes,0
 the mean one,3.8,29.0,"['Comedy', 'Horror']",2022,"['David Howard Thornton', 'Krystle Martin', 'Chase Mullins', 'John Bigham']",Steven LaMorte,0
 american hustle,7.2,90.0,"['Crime', 'Drama']",2013,"['Christian Bale', 'Amy Adams', 'Bradley Cooper', 'Jennifer Lawrence']",David O. Russell,251171807
 smokin aces,6.6,45.0,"['Action', 'Comedy', 'Crime']",2006,"['Jeremy Piven', 'Ryan Reynolds', 'Ray Liotta', 'Joseph Ruskin']",Joe Carnahan,57103895
@@ -709,7 +709,7 @@ ambulance,6.1,55.0,"['Action', 'Crime', 'Drama']",2022,"['Jake Gyllenhaal', 'Yah
 a bronx tale,7.8,80.0,"['Crime', 'Drama']",1993,"['Robert De Niro', 'Chazz Palminteri', 'Lillo Brancato', 'Francis Capra']",Robert De Niro,17287898
 romeo + juliet,6.7,60.0,"['Drama', 'Romance']",1996,"['Leonardo DiCaprio', 'Claire Danes', 'John Leguizamo', 'Harold Perrineau']",Baz Luhrmann,147298761
 the kings man,6.3,44.0,"['Action', 'Adventure', 'Thriller']",2021,"['Ralph Fiennes', 'Gemma Arterton', 'Rhys Ifans', 'Harris Dickinson']",Matthew Vaughn,125928656
-fools paradise,4.7,27.0,['Comedy'],2023,"['Charlie Day', 'Ken Jeong', 'Kate Beckinsale', 'Adrien Brody']",Charlie Day,854651
+fools paradise,4.7,27.0,['Comedy'],2023,"['Charlie Day', 'Ken Jeong', 'Kate Beckinsale', 'Adrien Brody']",Charlie Day,0
 trainspotting,8.1,83.0,['Drama'],1996,"['Ewan McGregor', 'Ewen Bremner', 'Jonny Lee Miller', 'Kevin McKidd']",Danny Boyle,16491080
 saw,7.6,46.0,"['Horror', 'Mystery', 'Thriller']",2004,"['Cary Elwes', 'Leigh Whannell', 'Danny Glover', 'Ken Leung']",James Wan,103911669
 psycho,8.5,97.0,"['Horror', 'Mystery', 'Thriller']",1960,"['Anthony Perkins', 'Janet Leigh', 'Vera Miles', 'John Gavin']",Alfred Hitchcock,32000000
@@ -890,7 +890,7 @@ sky high,6.3,62.0,"['Action', 'Comedy', 'Family']",2005,"['Kurt Russell', 'Kelly
 the popes exorcist,6.1,45.0,"['Horror', 'Thriller']",2023,"['Russell Crowe', 'Daniel Zovatto', 'Alexandra Essoe', 'Franco Nero']",Julius Avery,70204828
 everest,7.1,64.0,"['Action', 'Adventure', 'Biography']",2015,"['Jason Clarke', 'Ang Phula Sherpa', 'Thomas M. Wright', 'Martin Henderson']",Baltasar Kormákur,203427584
 dark waters,7.6,73.0,"['Biography', 'Drama', 'History']",2019,"['Mark Ruffalo', 'Anne Hathaway', 'Tim Robbins', 'Bill Pullman']",Todd Haynes,13601384
-freuds last session,8.5,57.0,['Drama'],2023,"['Anthony Hopkins', 'Matthew Goode', 'Jodi Balfour', 'Orla Brady']",Matt Brown,750894
+freuds last session,8.5,57.0,['Drama'],2023,"['Anthony Hopkins', 'Matthew Goode', 'Jodi Balfour', 'Orla Brady']",Matt Brown,0
 tomorrowland,6.4,60.0,"['Action', 'Adventure', 'Family']",2015,"['George Clooney', 'Britt Robertson', 'Hugh Laurie', 'Raffey Cassidy']",Brad Bird,209154322
 school of rock,7.2,82.0,"['Comedy', 'Music']",2003,"['Jack Black', 'Mike White', 'Joan Cusack', 'Adam Pascal']",Richard Linklater,131095990
 good time,7.3,80.0,"['Crime', 'Drama', 'Thriller']",2017,"['Robert Pattinson', 'Benny Safdie', 'Jennifer Jason Leigh', 'Buddy Duress']",Benny SafdieJosh Safdie,3283369
@@ -1014,9 +1014,9 @@ the giver,6.4,47.0,"['Drama', 'Romance', 'Sci-Fi']",2014,"['Brenton Thwaites', '
 9 songs,4.7,43.0,"['Drama', 'Music', 'Romance']",2004,"[""Kieran O'Brien"", 'Margo Stilley', 'Robert Levon Been', 'Black Rebel Motorcycle Club']",Michael Winterbottom,1574623
 crash,7.7,66.0,"['Crime', 'Drama', 'Thriller']",2004,"['Don Cheadle', 'Sandra Bullock', 'Thandiwe Newton', 'Karina Arroyave']",Paul Haggis,98410061
 i am legend,7.2,65.0,"['Action', 'Drama', 'Horror']",2007,"['Will Smith', 'Alice Braga', 'Charlie Tahan', 'Salli Richardson-Whitfield']",Francis Lawrence,585410052
-the power of the dog,6.8,89.0,"['Drama', 'Western']",2021,"['Benedict Cumberbatch', 'Kirsten Dunst', 'Jesse Plemons', 'Kodi Smit-McPhee']",Jane Campion,251597
+the power of the dog,6.8,89.0,"['Drama', 'Western']",2021,"['Benedict Cumberbatch', 'Kirsten Dunst', 'Jesse Plemons', 'Kodi Smit-McPhee']",Jane Campion,0
 spider-man 2,7.5,83.0,"['Action', 'Adventure', 'Sci-Fi']",2004,"['Tobey Maguire', 'Kirsten Dunst', 'Alfred Molina', 'James Franco']",Sam Raimi,788976453
-the peanut butter falcon,7.6,70.0,"['Adventure', 'Comedy', 'Drama']",2019,"['Zack Gottsagen', 'Ann Pierce', 'Dakota Johnson', 'Bruce Dern']",Tyler NilsonMichael Schwartz,26000000
+the peanut butter falcon,7.6,70.0,"['Adventure', 'Comedy', 'Drama']",2019,"['Zack Gottsagen', 'Ann Pierce', 'Dakota Johnson', 'Bruce Dern']",Tyler NilsonMichael Schwartz,0
 limitless,7.4,59.0,"['Sci-Fi', 'Thriller']",2011,"['Bradley Cooper', 'Anna Friel', 'Abbie Cornish', 'Robert De Niro']",Neil Burger,161849455
 the amazing spider-man,6.9,66.0,"['Action', 'Adventure', 'Sci-Fi']",2012,"['Andrew Garfield', 'Emma Stone', 'Rhys Ifans', 'Irrfan Khan']",Marc Webb,757930663
 upgrade,7.5,67.0,"['Action', 'Sci-Fi', 'Thriller']",2018,"['Logan Marshall-Green', 'Melanie Vallejo', 'Steve Danielsen', 'Abby Craden']",Leigh Whannell,16706680
@@ -1034,7 +1034,7 @@ kingsman the golden circle,6.7,44.0,"['Action', 'Adventure', 'Comedy']",2017,"['
 a few good men,7.7,62.0,"['Drama', 'Thriller']",1992,"['Tom Cruise', 'Jack Nicholson', 'Demi Moore', 'Kevin Bacon']",Rob Reiner,243240178
 bad times at the el royale,7.1,60.0,"['Crime', 'Drama', 'Mystery']",2018,"['Jeff Bridges', 'Cynthia Erivo', 'Dakota Johnson', 'Jon Hamm']",Drew Goddard,31882724
 cloud atlas,7.4,55.0,"['Drama', 'Mystery', 'Sci-Fi']",2012,"['Tom Hanks', 'Halle Berry', 'Hugh Grant', 'Hugo Weaving']",Tom TykwerLana WachowskiLilly Wachowski,130482868
-hit man,7.8,82.0,"['Action', 'Comedy']",2023,"['Glen Powell', 'Adria Arjona', 'Retta', 'Austin Amelio']",Richard Linklater,3168851
+hit man,7.8,82.0,"['Action', 'Comedy']",2023,"['Glen Powell', 'Adria Arjona', 'Retta', 'Austin Amelio']",Richard Linklater,0
 shang-chi and the legend of the ten rings,7.4,71.0,"['Action', 'Adventure', 'Fantasy']",2021,"['Simu Liu', 'Awkwafina', 'Tony Leung Chiu-wai', 'Ben Kingsley']",Destin Daniel Cretton,432243292
 polar,6.3,19.0,"['Action', 'Thriller']",2019,"['Mads Mikkelsen', 'Vanessa Hudgens', 'Katheryn Winnick', 'Fei Ren']",Jonas Åkerlund,0
 pacific rim,6.9,65.0,"['Action', 'Adventure', 'Sci-Fi']",2013,"['Idris Elba', 'Charlie Hunnam', 'Rinko Kikuchi', 'Charlie Day']",Guillermo del Toro,411002906
@@ -1070,7 +1070,7 @@ hostiles,7.2,65.0,"['Drama', 'Western']",2017,"['Scott Shepherd', 'Rosamund Pike
 oblivion,7.0,54.0,"['Action', 'Adventure', 'Sci-Fi']",2013,"['Tom Cruise', 'Morgan Freeman', 'Andrea Riseborough', 'Olga Kurylenko']",Joseph Kosinski,286168572
 a million miles away,7.3,62.0,"['Biography', 'Drama']",2023,"['Michael Peña', 'Rosa Salazar', 'Julio Cesar Cedillo', 'Veronica Falcón']",Alejandra Márquez Abella,0
 robin hood prince of thieves,6.9,51.0,"['Action', 'Adventure', 'Drama']",1991,"['Kevin Costner', 'Morgan Freeman', 'Mary Elizabeth Mastrantonio', 'Christian Slater']",Kevin Reynolds,390493908
-about my father,5.7,39.0,['Comedy'],2023,"['Robert De Niro', 'Sebastian Maniscalco', 'Leslie Bibb', 'Kim Cattrall']",Laura Terruso,18167819
+about my father,5.7,39.0,['Comedy'],2023,"['Robert De Niro', 'Sebastian Maniscalco', 'Leslie Bibb', 'Kim Cattrall']",Laura Terruso,0
 guardians of the galaxy vol. 2,7.6,67.0,"['Action', 'Adventure', 'Comedy']",2017,"['Chris Pratt', 'Zoe Saldana', 'Dave Bautista', 'Vin Diesel']",James Gunn,863756051
 wonder,7.9,66.0,"['Drama', 'Family']",2017,"['Jacob Tremblay', 'Owen Wilson', 'Izabela Vidovic', 'Julia Roberts']",Stephen Chbosky,305937718
 sleepy hollow,7.3,65.0,"['Fantasy', 'Horror', 'Mystery']",1999,"['Johnny Depp', 'Christina Ricci', 'Miranda Richardson', 'Michael Gambon']",Tim Burton,206071502
@@ -1103,7 +1103,7 @@ dr. strangelove or how i learned to stop worrying and love the bomb,8.4,97.0,"['
 wrong turn,5.5,46.0,"['Horror', 'Thriller']",2021,"['Charlotte Vega', 'Adain Bradley', 'Bill Sage', 'Emma Dumont']",Mike P. Nelson,28650575
 x-men first class,7.7,65.0,"['Action', 'Sci-Fi']",2011,"['James McAvoy', 'Michael Fassbender', 'Jennifer Lawrence', 'Kevin Bacon']",Matthew Vaughn,353624124
 road house,6.7,36.0,"['Action', 'Thriller']",1989,"['Patrick Swayze', 'Kelly Lynch', 'Sam Elliott', 'Ben Gazzara']",Rowdy Herrington,30050028
-sympathy for the devil,5.5,54.0,"['Action', 'Thriller']",2023,"['Nicolas Cage', 'Joel Kinnaman', 'Alexis Zollicoffer', 'Cameron Lee Price']",Yuval Adler,237270
+sympathy for the devil,5.5,54.0,"['Action', 'Thriller']",2023,"['Nicolas Cage', 'Joel Kinnaman', 'Alexis Zollicoffer', 'Cameron Lee Price']",Yuval Adler,0
 x-men apocalypse,6.9,52.0,"['Action', 'Adventure', 'Sci-Fi']",2016,"['James McAvoy', 'Michael Fassbender', 'Jennifer Lawrence', 'Nicholas Hoult']",Bryan Singer,543934787
 the bourne identity,7.8,68.0,"['Action', 'Mystery', 'Thriller']",2002,"['Franka Potente', 'Matt Damon', 'Chris Cooper', 'Clive Owen']",Doug Liman,214034224
 the master,7.1,86.0,"['Drama', 'History']",2012,"['Joaquin Phoenix', 'Philip Seymour Hoffman', 'Amy Adams', 'Jesse Plemons']",Paul Thomas Anderson,28258060
